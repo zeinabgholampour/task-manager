@@ -18,8 +18,20 @@
 -در دست بررسی
 
 ## مستندات
-فرانت اند:css,javaScript,HTML
-بک اند: Laravel,Node.js,Django
-پایگاه داده: MongoDB,MySQL
-گیت هاب: مدیریت نسخه ها،همکاری تیمی،و مستندسازی
+- [تحلیل نیازمندی ها]   (docs/requirements.md)
+- [موارد کاربرد و سناریو] (docs/use_cases.md)
+- [طراحی سیستم] (docs/architecture.md)
+
+
+  ## برنامه زمانبندی
+  فاز 1|تا زمان نامشخص
+
+  ## ارتباط
+  درصورت توضیحات بیشتر : zeinabgholampour82@gmail.com
+
+
+
+
+
+
 
