@@ -1,6 +1,7 @@
 | شماره | عنوان مستند | توضیحات | مسیر |
 |-------|---------|---------------|-------|
-| )database_design.md](./database_design.md[ | طراحی پایگاه داده | ساختار جداول و روابط | 1 |
-]first_principles_analysis.md[ | تحلیل بر اساس تفکر از اصول اولیه | بررسی منطقی و بنیادی پروژه | 2 |
-(./first_principles_analysis.md) |
-| 3 | Use Case Diagram | دیاگرام موارد کاربرد کاربران | [usecase_di
+| 1 | طراحی پایگاه داده | ساختار جداول و روابط | [database_design.md](./database_design.md) |
+| 2 | تحلیل بر اساس تفکر از اصول اولیه | بررسی منطقی و بنیادی پروژه | [first_principles_analysis.md](./first_principles_analysis.md)|
+| 3 | Use Case Diagram | دیاگرام موارد کاربرد کاربران | [usecase_diagram.png](./usecase_diagram.png) |
+
+ > آخرین ویرایش : آذر 1404
